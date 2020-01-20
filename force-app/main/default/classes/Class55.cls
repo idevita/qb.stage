@@ -3,5 +3,6 @@ public with sharing class Class55 {
 //this is class 55
         //this is class 88
         //this is edit 5
+        //this is edit 3
     }
 }
