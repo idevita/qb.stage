@@ -4,5 +4,7 @@ public with sharing class Class2 {
         //Update2
         //Update4
         //Update6
+        //Update3
+        //Update5
     }
 }
