@@ -4,5 +4,6 @@ public with sharing class Test1 {
         //This is a conflict
 
         //update00
+        //Update 4
     }
 }
